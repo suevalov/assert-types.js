@@ -23,6 +23,14 @@ The main mission is to provide simple and slick API for checking arguments and t
 
 ## How to install
 
+### NPM
+
+```javascript
+npm install assert-types.js
+```
+
+### Development and contributing
+
 Install dependencies
 
 `npm install && bower install`
