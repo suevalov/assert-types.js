@@ -1,5 +1,5 @@
 {
-  "name": "assertTypes",
+  "name": "assertTypes.js",
   "version": "0.2.0",
   "ignore": [
     "lib",
