@@ -1,0 +1,22 @@
+{
+  "name": "assertTypes",
+  "version": "0.2.0",
+  "ignore": [
+    "lib",
+    "test",
+    "spec",
+    "src",
+    "node_modules",
+    "Gruntfile.js",
+    "SpecRunner.html",
+    "package.json",
+    "bower.json",
+    ".travis.yml",
+    ".gitignore"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {
+  }
+}
