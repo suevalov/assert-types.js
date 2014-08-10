@@ -1,8 +1,8 @@
 {
-  "name": "assertTypes",
+  "name": "assertTypes.js",
   "version": "0.2.0",
-  "title": "assertTypes",
-  "homepage": "https://github.com/suevalov/assertTypes",
+  "title": "assertTypes.js",
+  "homepage": "https://github.com/suevalov/assertTypes.js",
   "description": "A small JavaScript library for arguments assertion",
   "author": {
     "name": "Alexander Suevalov",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suevalov/assertTypes"
+    "url": "https://github.com/suevalov/assertTypes.js"
   },
   "keywords": [
     "javascript",
@@ -21,12 +21,12 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/suevalov/assertTypes/issues"
+    "url": "https://github.com/suevalov/assertTypes.js/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/suevalov/assertTypes/blob/master/LICENSE"
+      "url": "https://github.com/suevalov/assertTypes.js/blob/master/LICENSE"
     }
   ],
   "dependencies": {
