@@ -1,10 +1,15 @@
-assertTypes
-===
+# assertTypes.js
 
-A small JavaScript library for argumets assertion.
-Browser and Node.JS compatible.
+A small JavaScript library for argumets assertion. Browser and Node.JS compatible.
 
-### Get Started
+* [What's the mission](#whats-the-mission)
+* [How to install](#how-to-install)
+* [How to use](#how-to-use)
+* [License](#license)
+
+## What's the mission
+
+## How to install
 
 Install dependencies
 
@@ -18,12 +23,12 @@ Run Tests
 
 `npm run test`
 
-### How to use
+## How to use
 
-### Maintainer
+## Maintainers
 
 - [Alexander Suevalov](https://github.com/suevalov)
 
-### License
+## License
 
 [MIT](https://github.com/suevalov/assertTypes/blob/master/LICENSE)
