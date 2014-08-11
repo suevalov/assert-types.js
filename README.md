@@ -1,5 +1,7 @@
 # assert-types.js
 
+[![Build Status](https://travis-ci.org/suevalov/assert-types.js.svg?branch=master)](https://travis-ci.org/suevalov/assert-types.js)
+
 A small JavaScript library for arguments assertion. Browser and Node.JS compatible.
 
 * [What's the mission](#whats-the-mission)
@@ -27,6 +29,12 @@ The main mission is to provide simple and slick API for checking arguments and t
 
 ```javascript
 npm install assert-types
+```
+
+### Bower
+
+```javascript
+bower install assert-types.js
 ```
 
 ### Development and contributing
