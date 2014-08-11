@@ -1,6 +1,6 @@
 # assert-types.js
 
-[![Build status][ci-image]][ci-status]
+[![Build Status](https://travis-ci.org/suevalov/assert-types.js.svg?branch=master)](https://travis-ci.org/suevalov/assert-types.js)
 
 A small JavaScript library for arguments assertion. Browser and Node.JS compatible.
 
