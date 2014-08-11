@@ -1,8 +1,8 @@
 {
   "name": "assert-types",
-  "version": "0.2.0",
-  "title": "assertTypes.js",
-  "homepage": "https://github.com/suevalov/assertTypes.js",
+  "version": "0.2.1",
+  "title": "assert-types.js",
+  "homepage": "https://github.com/suevalov/assert-types.js",
   "description": "A small JavaScript library for arguments assertion",
   "author": {
     "name": "Alexander Suevalov",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suevalov/assertTypes.js"
+    "url": "https://github.com/suevalov/assert-types.js"
   },
-  "main": "src/assertTypes.js",
+  "main": "src/assert-types.js",
   "keywords": [
     "util",
     "assert",
@@ -24,20 +24,20 @@
     "server"
   ],
   "bugs": {
-    "url": "http://github.com/suevalov/assertTypes.js/issues"
+    "url": "http://github.com/suevalov/assert-types.js/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/suevalov/assertTypes.js/blob/master/LICENSE"
+      "url": "http://github.com/suevalov/assert-types.js/blob/master/LICENSE"
     }
   ],
   "dependencies": {
     "underscore": "~1.6.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "bower": "~1.1.2",
+    "grunt": "~0.4.4",
+    "bower": "~1.3.9",
     "grunt-notify": "~0.2.7",
     "grunt-contrib-uglify": "~0.2.1",
     "matchdep": "~0.1.2",

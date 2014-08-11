@@ -4,7 +4,7 @@ var expect,
 
 if (typeof exports !== 'undefined') {
     expect = require('chai').expect;
-    assertTypes = require('../src/assertTypes');
+    assertTypes = require('../src/assert-types');
     _ = require('underscore');
 } else {
     expect = window.expect;
@@ -20,7 +20,7 @@ describe('assertTypes', function () {
     });
 
     it('should have valid version', function () {
-        expect(assertTypes.VERSION).to.equal('0.2.0');
+        expect(assertTypes.VERSION).to.equal('0.2.1');
     });
 
     describe('equal()', function () {

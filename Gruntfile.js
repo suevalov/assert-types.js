@@ -36,7 +36,7 @@ module.exports = function (grunt) {
             },
             dist: {
                 files: {
-                    "<%= dirs.build %>/assertTypes.min.js": "<%= dirs.js %>/assertTypes.js"
+                    "<%= dirs.build %>/assert-types.min.js": "<%= dirs.js %>/assert-types.js"
                 }
             }
         },
@@ -52,7 +52,7 @@ module.exports = function (grunt) {
         },
         simplemocha: {
             backend: {
-                src: 'spec/assertTypesSpec.js'
+                src: 'spec/assert-types-spec.js'
             }
         },
         karma: {

@@ -1,4 +1,4 @@
-# assertTypes.js
+# assert-types.js
 
 A small JavaScript library for arguments assertion. Browser and Node.JS compatible.
 
@@ -58,11 +58,11 @@ It also supports Require.js:
 ```javascript
 require.config({
 	paths: {
-		assertTypes: 'assertTypes.js/dist/assertTypes.min.js'
+		'assert-types': 'assert-types.js/dist/assert-types.min.js'
 	}
 });
 
-require(['assertTypes'], function(assertTypes) {});
+require(['assert-types'], function(assert) {});
 ```
 
 Also assertTypes.js could be included with an HTML `<script>` tag and `assertTypes` variable will be visible globally.
@@ -143,4 +143,4 @@ The assertion will be performed if condition is true;
 
 ## License
 
-[MIT](https://github.com/suevalov/assertTypes/blob/master/LICENSE)
+[MIT](https://github.com/suevalov/assert-types.js/blob/master/LICENSE)

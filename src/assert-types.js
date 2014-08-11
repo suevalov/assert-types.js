@@ -220,7 +220,7 @@
         return (value !== null) && (typeof value !== 'undefined');
     };
 
-    assertTypes.VERSION = '0.2.0';
+    assertTypes.VERSION = '0.2.1';
 
     return assertTypes;
 
