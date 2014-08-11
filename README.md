@@ -1,5 +1,7 @@
 # assert-types.js
 
+[![Build status][ci-image]][ci-status]
+
 A small JavaScript library for arguments assertion. Browser and Node.JS compatible.
 
 * [What's the mission](#whats-the-mission)
