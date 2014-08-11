@@ -1,5 +1,5 @@
 {
-  "name": "assert-types.js",
+  "name": "assert-types",
   "version": "0.2.0",
   "title": "assertTypes.js",
   "homepage": "https://github.com/suevalov/assertTypes.js",
@@ -13,20 +13,23 @@
     "type": "git",
     "url": "https://github.com/suevalov/assertTypes.js"
   },
+  "main": "src/assertTypes.js",
   "keywords": [
-    "javascript",
-    "library",
+    "util",
     "assert",
     "types",
-    "nodejs"
+    "nodejs",
+    "client",
+    "browser",
+    "server"
   ],
   "bugs": {
-    "url": "https://github.com/suevalov/assertTypes.js/issues"
+    "url": "http://github.com/suevalov/assertTypes.js/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/suevalov/assertTypes.js/blob/master/LICENSE"
+      "url": "http://github.com/suevalov/assertTypes.js/blob/master/LICENSE"
     }
   ],
   "dependencies": {

@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------------
- * Project: assertTypes
+ * Project: assertTypes.js
  * Version: 0.2.0
  *
  * Author:  Alexander Suevalov
