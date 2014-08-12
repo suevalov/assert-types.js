@@ -148,6 +148,7 @@ The assertion will be performed if condition is true;
 ## Maintainers
 
 - [Alexander Suevalov](https://github.com/suevalov)
+- [Alexander Shchekoldin](https://github.com/shchekoldin)
 
 ## License
 
